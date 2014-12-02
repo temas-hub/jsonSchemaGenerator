@@ -1,0 +1,589 @@
+{"pages": {
+    "page": [
+        {
+            "pageId": 214770,
+            "pageType": "PDP",
+            "layout": {
+                "id": 102000000214770,
+                "rows": [
+                    {
+                        "templateId": 1000,
+                        "zones": [
+                            {
+                                "name": "PRODUCT_BRAND_BANNER",
+                                "contents": [
+                                    {
+                                        "contentId": 2096721,
+                                        "componentID": 2096721,
+                                        "fileName": "022412_PDP_006_1028501.gif",
+                                        "height": 43,
+                                        "width": 750,
+                                        "text": "Kitchen Aid",
+                                        "description": "home pdp ads",
+                                        "contentGroupID": 534859,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "REBATE_LINK",
+                                "contents": [
+                                    {
+                                        "contentId": 2256932,
+                                        "componentID": 2256932,
+                                        "fileName": "/popupjsp/2013/10/234567.jsp",
+                                        "height": 400,
+                                        "width": 360,
+                                        "text":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "description":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "contentGroupID": 234567,
+                                        "contentGroupType": "CUSTOM_POPUP",
+                                        "contentType": "IMAGE"
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_1",
+                                "contents": [
+                                    {
+                                        "contentId": 2125564,
+                                        "componentID": 2125564,
+                                        "fileName": "082112_kitchenaid_pdp_1070707.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "kitchenaid check it out now",
+                                        "description": "kitchenaidBANNER",
+                                        "contentGroupID": 547403,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_2",
+                                "contents": [
+                                    {
+                                        "contentId": 2201228,
+                                        "componentID": 2201228,
+                                        "fileName": "071713_KitchenAid_banners_PDP_1097395.jpg",
+                                        "height": 102,
+                                        "width": 325,
+                                        "text": " Kitchenaid, work the kitchen with fun and multi functional tools, check it out",
+                                        "description": "KitchenAid Pdp Banner ",
+                                        "contentGroupID": 576762,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29424",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_CUSTOMER_REASSURANCE",
+                                "contents": [
+                                    {
+                                        "contentId": 2084046,
+                                        "componentID": 2084046,
+                                        "fileName": "1011_easy_returns_topbnr_1021296.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "Easy Returns: just bring it to a store or mail it in, see returns details",
+                                        "description": "PDP ADS",
+                                        "contentGroupID": 530091,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "javascript:pop('https://customerservice.macys.com/app/answers/detail/a_id/140/theme/popup/','CustomerService','scrollbars,width=550,height=610');",
+                                                "type": "STATIC",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "pageId": 199460,
+            "pageType": "PDP",
+            "layout": {
+                "id": 102000000199460,
+                "rows": [
+                    {
+                        "templateId": 1000,
+                        "zones": [
+                            {
+                                "name": "PRODUCT_BRAND_BANNER",
+                                "contents": [
+                                    {
+                                        "contentId": 2096721,
+                                        "componentID": 2096721,
+                                        "fileName": "022412_PDP_006_1028501.gif",
+                                        "height": 43,
+                                        "width": 750,
+                                        "text": "Kitchen Aid",
+                                        "description": "home pdp ads",
+                                        "contentGroupID": 534859,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            /*  {
+                             "name": "REBATE_LINK",
+                             "contents": [
+                             {
+                             "contentId": 2256932,
+                             "componentID": 2256932,
+                             "fileName": "/popupjsp/2013/10/234567.jsp",
+                             "height": 400,
+                             "width": 360,
+                             "text":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                             "description":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                             "contentGroupID": 234567,
+                             "contentGroupType": "CUSTOM_POPUP",
+                             "contentType": "IMAGE"
+                             }
+                             ],
+                             "nested-Content": {
+                             "entry": []
+                             }
+                             }, */
+                            {
+                                "name": "PDP_ICON_1",
+                                "contents": [
+                                    {
+                                        "contentId": 2125564,
+                                        "componentID": 2125564,
+                                        "fileName": "082112_kitchenaid_pdp_1070707.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "kitchenaid check it out now",
+                                        "description": "kitchenaidBANNER",
+                                        "contentGroupID": 547403,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_2",
+                                "contents": [
+                                    {
+                                        "contentId": 2201228,
+                                        "componentID": 2201228,
+                                        "fileName": "071713_KitchenAid_banners_PDP_1097395.jpg",
+                                        "height": 102,
+                                        "width": 325,
+                                        "text": " Kitchenaid, work the kitchen with fun and multi functional tools, check it out",
+                                        "description": "KitchenAid Pdp Banner ",
+                                        "contentGroupID": 576762,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29424",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_CUSTOMER_REASSURANCE",
+                                "contents": [
+                                    {
+                                        "contentId": 2084046,
+                                        "componentID": 2084046,
+                                        "fileName": "1011_easy_returns_topbnr_1021296.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "Easy Returns: just bring it to a store or mail it in, see returns details",
+                                        "description": "PDP ADS",
+                                        "contentGroupID": 530091,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "javascript:pop('https://customerservice.macys.com/app/answers/detail/a_id/140/theme/popup/','CustomerService','scrollbars,width=550,height=610');",
+                                                "type": "STATIC",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "pageId": 77589,
+            "pageType": "PDP",
+            "layout": {
+                "id": 102000000077589,
+                "rows": [
+                    {
+                        "templateId": 1000,
+                        "zones": [
+                            {
+                                "name": "PRODUCT_BRAND_BANNER",
+                                "contents": [
+                                    {
+                                        "contentId": 2096721,
+                                        "componentID": 2096721,
+                                        "fileName": "022412_PDP_006_1028501.gif",
+                                        "height": 43,
+                                        "width": 750,
+                                        "text":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "description":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "contentGroupID": 589059,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "REBATE_LINK",
+                                "contents": [
+                                    {
+                                        "contentId": 2256932,
+                                        "componentID": 2256932,
+                                        "fileName": "/popupjsp/2013/10/234567.jsp",
+                                        "height": 400,
+                                        "width": 360,
+                                        "text":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "description":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "contentGroupID": 589059,
+                                        "contentGroupType": "CUSTOM_POPUP",
+                                        "contentType": "IMAGE"
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_1",
+                                "contents": [
+                                    {
+                                        "contentId": 2125564,
+                                        "componentID": 2125564,
+                                        "fileName": "082112_kitchenaid_pdp_1070707.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "kitchenaid check it out now",
+                                        "description": "kitchenaidBANNER",
+                                        "contentGroupID": 547403,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_2",
+                                "contents": [
+                                    {
+                                        "contentId": 2201228,
+                                        "componentID": 2201228,
+                                        "fileName": "071713_KitchenAid_banners_PDP_1097395.jpg",
+                                        "height": 102,
+                                        "width": 325,
+                                        "text": " Kitchenaid, work the kitchen with fun and multi functional tools, check it out",
+                                        "description": "KitchenAid Pdp Banner ",
+                                        "contentGroupID": 576762,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29424",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_CUSTOMER_REASSURANCE",
+                                "contents": [
+                                    {
+                                        "contentId": 2084046,
+                                        "componentID": 2084046,
+                                        "fileName": "1011_easy_returns_topbnr_1021296.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "Easy Returns: just bring it to a store or mail it in, see returns details",
+                                        "description": "PDP ADS",
+                                        "contentGroupID": 530091,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "javascript:pop('https://customerservice.macys.com/app/answers/detail/a_id/140/theme/popup/','CustomerService','scrollbars,width=550,height=610');",
+                                                "type": "STATIC",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "pageId": 115512,
+            "pageType": "PDP",
+            "layout": {
+                "id": 102000000115512,
+                "rows": [
+                    {
+                        "templateId": 1000,
+                        "zones": [
+                            {
+                                "name": "PRODUCT_BRAND_BANNER",
+                                "contents": [
+                                    {
+                                        "contentId": 2096721,
+                                        "componentID": 2096721,
+                                        "fileName": "022412_PDP_006_1028501.gif",
+                                        "height": 43,
+                                        "width": 750,
+                                        "text": "Kitchen Aid",
+                                        "description": "home pdp ads",
+                                        "contentGroupID": 534859,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "REBATE_LINK",
+                                "contents": [
+                                    {
+                                        "contentId": 2256932,
+                                        "componentID": 2256932,
+                                        "fileName": "/popupjsp/2013/10/234567.jsp",
+                                        "height": 400,
+                                        "width": 360,
+                                        "text":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "description":"Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                                        "contentGroupID": 123456,
+                                        "contentGroupType": "CUSTOM_POPUP",
+                                        "contentType": "IMAGE"
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_1",
+                                "contents": [
+                                    {
+                                        "contentId": 2125564,
+                                        "componentID": 2125564,
+                                        "fileName": "082112_kitchenaid_pdp_1070707.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "kitchenaid check it out now",
+                                        "description": "kitchenaidBANNER",
+                                        "contentGroupID": 547403,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29422",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_ICON_2",
+                                "contents": [
+                                    {
+                                        "contentId": 2201228,
+                                        "componentID": 2201228,
+                                        "fileName": "071713_KitchenAid_banners_PDP_1097395.jpg",
+                                        "height": 102,
+                                        "width": 325,
+                                        "text": " Kitchenaid, work the kitchen with fun and multi functional tools, check it out",
+                                        "description": "KitchenAid Pdp Banner ",
+                                        "contentGroupID": 576762,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "29424",
+                                                "type": "CATEGORY",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            },
+                            {
+                                "name": "PDP_CUSTOMER_REASSURANCE",
+                                "contents": [
+                                    {
+                                        "contentId": 2084046,
+                                        "componentID": 2084046,
+                                        "fileName": "1011_easy_returns_topbnr_1021296.jpg",
+                                        "height": 0,
+                                        "width": 0,
+                                        "text": "Easy Returns: just bring it to a store or mail it in, see returns details",
+                                        "description": "PDP ADS",
+                                        "contentGroupID": 530091,
+                                        "contentGroupType": "AD",
+                                        "contentType": "IMAGE",
+                                        "contentlinks": [
+                                            {
+                                                "value": "javascript:pop('https://customerservice.macys.com/app/answers/detail/a_id/140/theme/popup/','CustomerService','scrollbars,width=550,height=610');",
+                                                "type": "STATIC",
+                                                "coordinates": "",
+                                                "text": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "nested-Content": {
+                                    "entry": []
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+
+}

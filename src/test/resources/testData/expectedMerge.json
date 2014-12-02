@@ -1,0 +1,381 @@
+{
+  "id": "#",
+  "type": "object",
+  "required": true,
+  "properties": {
+    "category": {
+      "id": "category",
+      "type": "array",
+      "required": true,
+      "items": {
+        "id": "0",
+        "type": "object",
+        "required": true,
+        "properties": {
+          "product": {
+            "id": "product",
+            "type": "object",
+            "required": true,
+            "properties": {
+              "product": {
+                "id": "product",
+                "type": "array",
+                "required": true,
+                "items": {
+                  "id": "0",
+                  "type": "object",
+                  "required": true,
+                  "properties": {
+                    "id": {
+                      "id": "id",
+                      "type": "number",
+                      "required": true
+                    },
+                    "summary": {
+                      "id": "summary",
+                      "type": "object",
+                      "required": true,
+                      "properties": {
+                        "iscollection": {
+                          "id": "iscollection",
+                          "type": "boolean",
+                          "required": false
+                        },
+                        "onsale": {
+                          "id": "onsale",
+                          "type": "boolean",
+                          "required": true
+                        },
+                        "name": {
+                          "id": "name",
+                          "type": "string",
+                          "required": true
+                        },
+                        "registrable": {
+                          "id": "registrable",
+                          "type": "string",
+                          "required": true
+                        },
+                        "available": {
+                          "id": "available",
+                          "type": "boolean",
+                          "required": true
+                        },
+                        "productstartdays": {
+                          "id": "productstartdays",
+                          "type": "number",
+                          "required": true
+                        },
+                        "producttype": {
+                          "id": "producttype",
+                          "type": "string",
+                          "required": true
+                        },
+                        "producturl": {
+                          "id": "producturl",
+                          "type": "string",
+                          "required": true
+                        }
+                      }
+                    },
+                    "badges": {
+                      "id": "badges",
+                      "type": "object",
+                      "required": true,
+                      "properties": {
+                        "new": {
+                          "id": "new",
+                          "type": "boolean",
+                          "required": true
+                        },
+                        "promotionbadge": {
+                          "id": "promotionbadge",
+                          "type": "array",
+                          "required": false,
+                          "items": {
+                            "id": "0",
+                            "type": "string",
+                            "required": false
+                          }
+                        },
+                        "onsale": {
+                          "id": "onsale",
+                          "type": "boolean",
+                          "required": true
+                        },
+                        "Rebate": {
+                          "id": "Rebate",
+                          "type": "boolean",
+                          "required": true
+                        }
+                      }
+                    },
+                    "category": {
+                      "id": "category",
+                      "type": "array",
+                      "required": true,
+                      "items": {
+                        "id": "0",
+                        "type": "object",
+                        "required": true,
+                        "properties": {
+                          "id": {
+                            "id": "id",
+                            "type": "number",
+                            "required": true
+                          },
+                          "type": {
+                            "id": "type",
+                            "type": "string",
+                            "required": true
+                          }
+                        }
+                      }
+                    },
+                    "price": {
+                      "id": "price",
+                      "type": "object",
+                      "required": true,
+                      "properties": {
+                        "regular": {
+                          "id": "regular",
+                          "type": "object",
+                          "required": true,
+                          "properties": {
+                            "high": {
+                              "id": "high",
+                              "type": "number",
+                              "required": true
+                            },
+                            "low": {
+                              "id": "low",
+                              "type": "number",
+                              "required": true
+                            }
+                          }
+                        },
+                        "pricetypeid": {
+                          "id": "pricetypeid",
+                          "type": "number",
+                          "required": true
+                        }
+                      }
+                    },
+                    "image": {
+                      "id": "image",
+                      "type": "array",
+                      "required": true,
+                      "items": {
+                        "id": "0",
+                        "type": "object",
+                        "required": true,
+                        "properties": {
+                          "colorized": {
+                            "id": "colorized",
+                            "type": "boolean",
+                            "required": true
+                          },
+                          "imagetype": {
+                            "id": "imagetype",
+                            "type": "string",
+                            "required": true
+                          },
+                          "hasMoreColors": {
+                            "id": "hasMoreColors",
+                            "type": "boolean",
+                            "required": true
+                          },
+                          "imageurl": {
+                            "id": "imageurl",
+                            "type": "string",
+                            "required": true
+                          },
+                          "sequenceNumber": {
+                            "id": "sequenceNumber",
+                            "type": "number",
+                            "required": false
+                          },
+                          "imagename": {
+                            "id": "imagename",
+                            "type": "string",
+                            "required": true
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "summary": {
+            "id": "summary",
+            "type": "object",
+            "required": true,
+            "properties": {
+              "pageType": {
+                "id": "pageType",
+                "type": "string",
+                "required": true
+              },
+              "categoryHighlight": {
+                "id": "categoryHighlight",
+                "type": "boolean",
+                "required": true
+              },
+              "categorypageurl": {
+                "id": "categorypageurl",
+                "type": "string",
+                "required": true
+              },
+              "pageTitle": {
+                "id": "pageTitle",
+                "type": "string",
+                "required": true
+              },
+              "pageId": {
+                "id": "pageId",
+                "type": "string",
+                "required": false
+              },
+              "name": {
+                "id": "name",
+                "type": "string",
+                "required": true
+              },
+              "mobileName": {
+                "id": "mobileName",
+                "type": "string",
+                "required": true
+              },
+              "mobilePublish": {
+                "id": "mobilePublish",
+                "type": "string",
+                "required": true
+              },
+              "categorytype": {
+                "id": "categorytype",
+                "type": "string",
+                "required": true
+              }
+            }
+          },
+          "id": {
+            "id": "id",
+            "type": "number",
+            "required": true
+          },
+          "bopsfacetavailable": {
+            "id": "bopsfacetavailable",
+            "type": "boolean",
+            "required": true
+          },
+          "parentcategory": {
+            "id": "parentcategory",
+            "type": "object",
+            "required": true,
+            "properties": {
+              "summary": {
+                "id": "summary",
+                "type": "object",
+                "required": true,
+                "properties": {
+                  "pageType": {
+                    "id": "pageType",
+                    "type": "string",
+                    "required": true
+                  },
+                  "categoryHighlight": {
+                    "id": "categoryHighlight",
+                    "type": "boolean",
+                    "required": true
+                  },
+                  "categorypageurl": {
+                    "id": "categorypageurl",
+                    "type": "string",
+                    "required": true
+                  },
+                  "pageTitle": {
+                    "id": "pageTitle",
+                    "type": "string",
+                    "required": false
+                  },
+                  "name": {
+                    "id": "name",
+                    "type": "string",
+                    "required": true
+                  },
+                  "mobileName": {
+                    "id": "mobileName",
+                    "type": "string",
+                    "required": true
+                  },
+                  "mobilePublish": {
+                    "id": "mobilePublish",
+                    "type": "string",
+                    "required": true
+                  },
+                  "categorytype": {
+                    "id": "categorytype",
+                    "type": "string",
+                    "required": true
+                  }
+                }
+              },
+              "id": {
+                "id": "id",
+                "type": "number",
+                "required": true
+              },
+              "type": {
+                "id": "type",
+                "type": "string",
+                "required": true
+              }
+            }
+          }
+        }
+      }
+    },
+    "querydate": {
+      "id": "querydate",
+      "type": "string",
+      "required": true
+    },
+    "sortby": {
+      "id": "sortby",
+      "type": "string",
+      "required": true
+    },
+    "sortorder": {
+      "id": "sortorder",
+      "type": "string",
+      "required": true
+    },
+    "show": {
+      "id": "show",
+      "type": "string",
+      "required": true
+    },
+    "currentpage": {
+      "id": "currentpage",
+      "type": "number",
+      "required": true
+    },
+    "totalresults": {
+      "id": "totalresults",
+      "type": "number",
+      "required": true
+    },
+    "resultsperpage": {
+      "id": "resultsperpage",
+      "type": "number",
+      "required": true
+    },
+    "resptime": {
+      "id": "resptime",
+      "type": "string",
+      "required": true
+    }
+  }
+}

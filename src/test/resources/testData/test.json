@@ -1,0 +1,3045 @@
+{"product": [
+    {
+        "id": 214770,
+        "productDetails": {
+            "summary": {
+                "name": "KitchenAid Electrics",
+                "productURL": "http://www1.macys.com/shop/product/kitchenaid-electrics?ID=214770",
+                "description": "What a bright idea! KitchenAid presents a collection of appliances that will help you add a little color to your kitchen. With a style all their own, each piece features accents of vibrant color and sturdy, durable construction. Add to that KitchenAid's reputation for unsurpassed performance and quality and you're assured the best tools no matter what your culinary endeavor. 1-year hassle-free replacement warranty.",
+                "typeName": "ELECTRICS",
+                "available": true,
+                "productStartDays": 2610,
+                "isNew": false,
+                "taxwareCode": 91000,
+                "productGroup": true,
+                "checkInStoreEligibility": true,
+                "maxQuantity": 6,
+                "comparable": false,
+                "active": true,
+                "defaultCategoryId": 7554,
+                "giftWrappable": false,
+                "visible": true,
+                "clearanceStartDays": 16008,
+                "countryEligible": true,
+                "primaryPortraitSource": "484333_fpx.tif",
+                "additionalImageSource": ["246553_fpx.tif"],
+                "rebateId": ["234567"]
+            },
+            "collection": {
+                "iscollection": true
+            },
+            "childProducts": [
+                {
+                    "id": 199460,
+                    "productDetails": {
+                        "summary": {
+                            "name": "KitchenAid KSC700 Slow Cooker",
+                            "productURL": "http://www1.macys.com/shop/product/kitchenaid-ksc700-slow-cooker?ID=199460",
+                            "description": "Great food takes time? something you just don't have. KitchenAid's patient slow cooker does most of the work for you, gently heating the most tender roasts and sumptuous stews you've ever tasted. Just fill the 7-quart ceramic pot with your favorite ingredients, program the 10-hour timer with digital display and let the 400-watt heating element slowly simmer your meal to perfection. The 5-setting cook and serve control keeps food warm until it's ready to serve. 1-year hassle-free replacement warranty. Model KSC700.",
+                            "typeName": "ELECTRICS",
+                            "available": false,
+                            "productStartDays": 2703,
+                            "isNew": false,
+                            "taxwareCode": 91000,
+                            "productGroup": false,
+                            "checkInStoreEligibility": false,
+                            "maxQuantity": 6,
+                            "bullets": ["Includes glass lid with large handle and soft seal", "Electronic temperature management system", "Food temperature alert"],
+                            "comparable": false,
+                            "active": true,
+                            "defaultCategoryId": 7554,
+                            "giftWrappable": false,
+                            "visible": false,
+                            "clearanceStartDays": 16008,
+                            "countryEligible": true,
+                            "primaryPortraitSource": "240119_fpx.tif",
+                            "additionalImageSource": ["229406_fpx.tif"]
+                        },
+                        "collection": {
+                            "incollection": true
+                        },
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": false
+                        },
+                        "shipping": {
+                            "giftWrappable": false,
+                            "giftMessageable": false
+                        },
+                        "attributes": [
+                            {
+                                "name": "ELECTRICS_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Rice & Slow Cookers"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CAPACITY",
+                                "values": [
+                                    {
+                                        "value": "7 quarts"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WARRANTY",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_END_DATE",
+                                "values": [
+                                    {
+                                        "value": "07/05/2006 12:07:00 AM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SKAVA",
+                                "values": [
+                                    {
+                                        "value": "Guided Registry"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "COMPARABLE",
+                                "values": [
+                                    {
+                                        "value": "N"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_DEPARTMENT",
+                                "values": [
+                                    {
+                                        "value": "Electrics"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_START_DATE",
+                                "values": [
+                                    {
+                                        "value": "06/05/2006 12:06:00 AM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "INTL_SUPPRESS_PRODUCT",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_PORTRAIT_IMAGE",
+                                "values": [
+                                    {
+                                        "value": "240119.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MORE_COLORS",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CUSTRATINGS",
+                                "values": [
+                                    {
+                                        "value": "3.2"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_NOUN",
+                                "values": [
+                                    {
+                                        "value": "slow cooker"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_ADDITIONAL_IMAGES",
+                                "values": [
+                                    {
+                                        "value": "229406.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AZ_HOME_TYPES",
+                                "values": [
+                                    {
+                                        "value": "slow-cookers"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PDF_EMAIL_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Slow Cooker"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_LONG_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Great food takes time? something you just don't have. KitchenAid's patient slow cooker does most of the work for you, gently heating the most tender roasts and sumptuous stews you've ever tasted. Just fill the 7-quart ceramic pot with your favorite ingredients, program the 10-hour timer with digital display and let the 400-watt heating element slowly simmer your meal to perfection. The 5-setting cook and serve control keeps food warm until it's ready to serve. 1-year hassle-free replacement warranty. Model KSC700."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AMAZON_TAX_CODE",
+                                "values": [
+                                    {
+                                        "value": "A_GEN_TAX"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BRAND",
+                                "values": [
+                                    {
+                                        "value": "KitchenAid"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BUSINESS_CATEGORY",
+                                "values": [
+                                    {
+                                        "value": "Home",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Kitchen",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "primaryImage": {
+                            "imagetype": "PRIMARY_IMAGE",
+                            "imagename": "240119_fpx.tif",
+                            "sequenceNumber": 1
+                        },
+                        "additionalImages": [
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imagename": "229406_fpx.tif",
+                                "sequenceNumber": 2
+                            }
+                        ],
+                        "brand": {
+                            "brandname": "KitchenAid",
+                            "brandid": 1025
+                        },
+                        "corpclass": {
+                            "gmmid": 6,
+                            "gmmcode": "SOFT HOME",
+                            "deptid": 691,
+                            "deptcode": "KITCHEN ELECTRICS"
+                        },
+                        "colorMap": [
+                            {
+                                "colorwayid": 29443,
+                                "imagetype": "COLORWAY",
+                                "color": "Gloss Cinnamon",
+                                "swatchsequencenumber": 1,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "239275_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 29444,
+                                "imagetype": "COLORWAY",
+                                "color": "Onyx Black",
+                                "swatchsequencenumber": 2,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "239276_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 29445,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Gray",
+                                "color": "Stainless Steel",
+                                "swatchsequencenumber": 3,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "239274_fpx.tif"
+                                }
+                            }
+                        ],
+                        "availability": {
+                            "available": false
+                        }
+                    }
+                },
+                {
+                    "id": 77589,
+                    "productDetails": {
+                        "summary": {
+                            "name": "KitchenAid KSM150PS Stand Mixer, 5 Qt. Artisan",
+                            "productURL": "http://www1.macys.com/shop/product/kitchenaid-ksm150ps-stand-mixer-5-qt-artisan?ID=77589",
+                            "description": "Retro styled and easy to use, the KitchenAid Artisan stand mixer is the perfect kitchen companion. Employing a unique tilting head to facilitate bowl and content removal, this mixer is undeniably handy. 1-year hassle-free replacement warranty. Model KSM150PS. ",
+                            "typeName": "MIXER",
+                            "available": true,
+                            "productStartDays": 1241,
+                            "isNew": false,
+                            "taxwareCode": 91000,
+                            "productGroup": false,
+                            "checkInStoreEligibility": true,
+                            "maxQuantity": 6,
+                            "bullets": ["Imported", "Includes flat beater, wire whip, dough hook, pouring shield and polished bowl with handles", "Mirror-polished stainless steel mixing bowl features an extra-large 5-qt. capacity and ergonomic handle", "Average capacity: nine cups of flour", "Prepare up to four loaves of bread, nine dozen cookies or seven pounds of mashed potatoes", "Powerful 325-watt motor effectively mixes even the toughest dough and batter", "Pouring shield reduces mess by channeling ingredients into bowl", "Measures 13.9\" x 8.7\" X 14.1\""],
+                            "comparable": true,
+                            "active": true,
+                            "defaultCategoryId": 7554,
+                            "giftWrappable": false,
+                            "visible": true,
+                            "clearanceStartDays": 16008,
+                            "countryEligible": true,
+                            "primaryPortraitSource": "397865_fpx.tif",
+                            "additionalImageSource": ["1325639_fpx.tif"],
+                            "rebateId": ["589059"]
+                        },
+                        "collection": {
+                            "incollection": true
+                        },
+                        "badges": {
+                            "new": false,
+                            "Rebate": true,
+                            "onsale": false
+                        },
+                        "shipping": {
+                            "shippingMethods": ["Standard Delivery", "Premium 2 Day Delivery", "Express Overnight Delivery"],
+                            "returnConstraint": ["SP", "NX", "SX", "SM"],
+                            "notes": ["You can return this item to any Macys store"],
+                            "giftWrappable": false,
+                            "giftMessageable": true
+                        },
+                        "attributes": [
+                            {
+                                "name": "ELECTRICS_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Mixer & Accessories"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SHOW_MEMBER_IMAGE",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "GUIDED_SITE",
+                                "values": [
+                                    {
+                                        "value": "Kitchen"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CAPACITY",
+                                "values": [
+                                    {
+                                        "value": "5 quarts"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WATTS",
+                                "values": [
+                                    {
+                                        "value": "325W"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_DEPARTMENT",
+                                "values": [
+                                    {
+                                        "value": "Mixers"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "INTL_SUPPRESS_PRODUCT",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MORE_COLORS",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "EVERGREEN_GIFT_GUIDE",
+                                "values": [
+                                    {
+                                        "value": "Anniversary",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Anniversary Couple",
+                                        "seqnum": 2
+                                    },
+                                    {
+                                        "value": "Her Birthday",
+                                        "seqnum": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_ADDITIONAL_IMAGES",
+                                "values": [
+                                    {
+                                        "value": "1325639.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_LONG_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Retro styled and easy to use, the KitchenAid Artisan stand mixer is the perfect kitchen companion. Employing a unique tilting head to facilitate bowl and content removal, this mixer is undeniably handy. 1-year hassle-free replacement warranty. Model KSM150PS. "
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MODEL_NUMBER",
+                                "values": [
+                                    {
+                                        "value": "KSM150PS"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MOM_STYLE",
+                                "values": [
+                                    {
+                                        "value": "Classic"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AZ_CLOTHING_TYPES",
+                                "values": [
+                                    {
+                                        "value": "Accessory"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WARRANTY",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_START_DATE",
+                                "values": [
+                                    {
+                                        "value": "06/06/2010 06:06:55 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "LIFESTYLE",
+                                "values": [
+                                    {
+                                        "value": "Classic"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SHOWONLY_GIFT_IDEAS",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "DIMENSION",
+                                "values": [
+                                    {
+                                        "value": "8.75\" x 14.1\" x 13.9\""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CUSTRATINGS",
+                                "values": [
+                                    {
+                                        "value": "4.9"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PDF_EMAIL_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Artisan® 5-Qt. Stand Mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MEMBER_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "5-Qt. Stand Mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SEARCH_RANKING",
+                                "values": [
+                                    {
+                                        "value": "11"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AMAZON_TAX_CODE",
+                                "values": [
+                                    {
+                                        "value": "A_GEN_TAX"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SHIPPING_BULLET_TEXT",
+                                "values": [
+                                    {
+                                        "value": "You can return this item to any Macys store"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "GENDER_AGE",
+                                "values": [
+                                    {
+                                        "value": "Men",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Women",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_END_DATE",
+                                "values": [
+                                    {
+                                        "value": "07/06/2010 06:07:55 PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SKAVA",
+                                "values": [
+                                    {
+                                        "value": "Evergreen Gift Guide",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Guided Registry",
+                                        "seqnum": 2
+                                    },
+                                    {
+                                        "value": "Holiday Gift Guide",
+                                        "seqnum": 3
+                                    },
+                                    {
+                                        "value": "KitchenAid Sitelet",
+                                        "seqnum": 4
+                                    },
+                                    {
+                                        "value": "Mother's Day Gift Guide",
+                                        "seqnum": 5
+                                    },
+                                    {
+                                        "value": "Project Pickle",
+                                        "seqnum": 6
+                                    },
+                                    {
+                                        "value": "Wedding Finder",
+                                        "seqnum": 7
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "RECIPE",
+                                "values": [
+                                    {
+                                        "value": "KAid 25"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "GIFT",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AUTO_GENDER_AGE",
+                                "values": [
+                                    {
+                                        "value": "Women"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AGE_CATEGORY",
+                                "values": [
+                                    {
+                                        "value": "Adult"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WARRANTY_LENGTH",
+                                "values": [
+                                    {
+                                        "value": "1 yr"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WEIGHT",
+                                "values": [
+                                    {
+                                        "value": "25 Lbs."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AZ_HOME_TYPES",
+                                "values": [
+                                    {
+                                        "value": "stand-mixers"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CLICKABLE_SWATCH",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "GIFT_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Gifts Under",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Kitchen Electrics",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_VIDEO",
+                                "values": [
+                                    {
+                                        "value": "77589v"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SHOWONLY_SITE_RECOMMENDED",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_PORTRAIT_IMAGE",
+                                "values": [
+                                    {
+                                        "value": "397865.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MIXER_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Stand Mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FINISH",
+                                "values": [
+                                    {
+                                        "value": "Stainless Steel"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ALT PRIMARY",
+                                "values": [
+                                    {
+                                        "value": "1205735.fpx",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "1643795.fpx",
+                                        "seqnum": 2
+                                    },
+                                    {
+                                        "value": "1643796.fpx",
+                                        "seqnum": 3
+                                    },
+                                    {
+                                        "value": "1643797.fpx",
+                                        "seqnum": 4
+                                    },
+                                    {
+                                        "value": "1727353.fpx",
+                                        "seqnum": 5
+                                    },
+                                    {
+                                        "value": "256615.fpx",
+                                        "seqnum": 6
+                                    },
+                                    {
+                                        "value": "397852.fpx",
+                                        "seqnum": 7
+                                    },
+                                    {
+                                        "value": "397853.fpx",
+                                        "seqnum": 8
+                                    },
+                                    {
+                                        "value": "397854.fpx",
+                                        "seqnum": 9
+                                    },
+                                    {
+                                        "value": "397855.fpx",
+                                        "seqnum": 10
+                                    },
+                                    {
+                                        "value": "397857.fpx",
+                                        "seqnum": 11
+                                    },
+                                    {
+                                        "value": "397858.fpx",
+                                        "seqnum": 12
+                                    },
+                                    {
+                                        "value": "397865.fpx",
+                                        "seqnum": 13
+                                    },
+                                    {
+                                        "value": "397866.fpx",
+                                        "seqnum": 14
+                                    },
+                                    {
+                                        "value": "397867.fpx",
+                                        "seqnum": 15
+                                    },
+                                    {
+                                        "value": "397872.fpx",
+                                        "seqnum": 16
+                                    },
+                                    {
+                                        "value": "397881.fpx",
+                                        "seqnum": 17
+                                    },
+                                    {
+                                        "value": "397885.fpx",
+                                        "seqnum": 18
+                                    },
+                                    {
+                                        "value": "397889.fpx",
+                                        "seqnum": 19
+                                    },
+                                    {
+                                        "value": "397890.fpx",
+                                        "seqnum": 20
+                                    },
+                                    {
+                                        "value": "397891.fpx",
+                                        "seqnum": 21
+                                    },
+                                    {
+                                        "value": "397892.fpx",
+                                        "seqnum": 22
+                                    },
+                                    {
+                                        "value": "397893.fpx",
+                                        "seqnum": 23
+                                    },
+                                    {
+                                        "value": "397895.fpx",
+                                        "seqnum": 24
+                                    },
+                                    {
+                                        "value": "397896.fpx",
+                                        "seqnum": 25
+                                    },
+                                    {
+                                        "value": "834564.fpx",
+                                        "seqnum": 26
+                                    },
+                                    {
+                                        "value": "837649.fpx",
+                                        "seqnum": 27
+                                    },
+                                    {
+                                        "value": "841245.fpx",
+                                        "seqnum": 28
+                                    },
+                                    {
+                                        "value": "844854.fpx",
+                                        "seqnum": 29
+                                    },
+                                    {
+                                        "value": "895768.fpx",
+                                        "seqnum": 30
+                                    },
+                                    {
+                                        "value": "915656.fpx",
+                                        "seqnum": 31
+                                    },
+                                    {
+                                        "value": "982825.fpx",
+                                        "seqnum": 32
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "STAND_MIXER_FEATURE",
+                                "values": [
+                                    {
+                                        "value": "Tilt-Head"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_NOUN",
+                                "values": [
+                                    {
+                                        "value": "stand mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "GENDER",
+                                "values": [
+                                    {
+                                        "value": "Unisex"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SPEEDS",
+                                "values": [
+                                    {
+                                        "value": "10 Mixing Speeds"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "REGISTRABLE",
+                                "values": [
+                                    {
+                                        "value": "Wedding"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_KEYWORD",
+                                "values": [
+                                    {
+                                        "value": "Best Value",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "gifts",
+                                        "seqnum": 2
+                                    },
+                                    {
+                                        "value": "gourmet chef",
+                                        "seqnum": 3
+                                    },
+                                    {
+                                        "value": "kitchen aid",
+                                        "seqnum": 4
+                                    },
+                                    {
+                                        "value": "mothers day",
+                                        "seqnum": 5
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BRAND",
+                                "values": [
+                                    {
+                                        "value": "KitchenAid"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BUSINESS_CATEGORY",
+                                "values": [
+                                    {
+                                        "value": "Home",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Kitchen",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "primaryImage": {
+                            "imagetype": "PRIMARY_IMAGE",
+                            "imagename": "397865_fpx.tif",
+                            "sequenceNumber": 0
+                        },
+                        "additionalImages": [
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imagename": "1325639_fpx.tif",
+                                "sequenceNumber": 0
+                            }
+                        ],
+                        "brand": {
+                            "brandname": "KitchenAid",
+                            "brandid": 1025
+                        },
+                        "corpclass": {
+                            "gmmid": 6,
+                            "gmmcode": "SOFT HOME",
+                            "deptid": 691,
+                            "deptcode": "KITCHEN ELECTRICS"
+                        },
+                        "price": {
+                            "retail": {
+                                "pricevalue": {
+                                    "low": 499.99
+                                }
+                            },
+                            "pricetype": 0,
+                            "onsale": false
+                        },
+                        "colorMap": [
+                            {
+                                "colorwayid": 926629,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Green",
+                                "color": "Canopy Green",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "1643796_fpx.tif",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 41,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "1217708_fpx.tif",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "colorwayid": 926684,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Pink",
+                                "color": "Watermelon",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "1643797_fpx.tif",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 0,
+                                "swapoutsequencenumber": 43,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "360899_fpx.tif",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "colorwayid": 6751,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Tan/Beige",
+                                "color": "Almond",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397881_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 1,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "34969_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6752,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Blue",
+                                "color": "Aqua Sky",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "841245_fpx.tif"
+                                },
+                                "swatchsequencenumber": 2,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "355077_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6753,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Green",
+                                "color": "Bayleaf",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397891_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 3,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "78160_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6754,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Black",
+                                "color": "Black",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397853_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 4,
+                                "swapoutsequencenumber": 4,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "72688_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6755,
+                                "imagetype": "COLORWAY",
+                                "color": "Blue Willow",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397889_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 5,
+                                "swapoutsequencenumber": 5,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "85711_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6756,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Purple",
+                                "color": "Boysenberry",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397892_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 6,
+                                "swapoutsequencenumber": 6,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "189559_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6757,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Yellow",
+                                "color": "Buttercup",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "837649_fpx.tif"
+                                },
+                                "swatchsequencenumber": 7,
+                                "swapoutsequencenumber": 7,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "362403_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6759,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Red",
+                                "color": "Cinnamon",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397885_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 9,
+                                "swapoutsequencenumber": 9,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "191949_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6761,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Blue",
+                                "color": "Cobalt Blue",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397852_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 11,
+                                "swapoutsequencenumber": 11,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "72686_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6762,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Silver",
+                                "color": "Contour Silver",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "895768_fpx.tif"
+                                },
+                                "swatchsequencenumber": 12,
+                                "swapoutsequencenumber": 12,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "357250_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6763,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Blue",
+                                "color": "Cornflower",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397893_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 13,
+                                "swapoutsequencenumber": 13,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "72631_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6764,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Red",
+                                "color": "Cranberry",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "1643795_fpx.tif",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 14,
+                                "swapoutsequencenumber": 14,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "77219_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6765,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Blue",
+                                "color": "Crystal Blue",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "1205735_fpx.tif",
+                                    "sequenceNumber": 1
+                                },
+                                "swatchsequencenumber": 15,
+                                "swapoutsequencenumber": 15,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "90545_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6766,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Red",
+                                "color": "Empire Red",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "844854_fpx.tif"
+                                },
+                                "swatchsequencenumber": 16,
+                                "swapoutsequencenumber": 16,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "72689_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6767,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Brown",
+                                "color": "Espresso",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "982825_fpx.tif"
+                                },
+                                "swatchsequencenumber": 17,
+                                "swapoutsequencenumber": 17,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "349062_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6770,
+                                "imagetype": "COLORWAY",
+                                "color": "Green",
+                                "swatchsequencenumber": 20,
+                                "swapoutsequencenumber": 20,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "78160_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6771,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Green",
+                                "color": "Green Apple",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397890_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 21,
+                                "swapoutsequencenumber": 21,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "220606_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6772,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Gray",
+                                "color": "Grey",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397858_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 22,
+                                "swapoutsequencenumber": 22,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "76995_fpx.tif",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "colorwayid": 6773,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Blue",
+                                "color": "Ice",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397872_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 23,
+                                "swapoutsequencenumber": 23,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "111938_fpx.tif",
+                                    "sequenceNumber": 0
+                                }
+                            },
+                            {
+                                "colorwayid": 6774,
+                                "imagetype": "COLORWAY",
+                                "color": "Lavender",
+                                "swatchsequencenumber": 24,
+                                "swapoutsequencenumber": 24,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "79420_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6776,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Yellow",
+                                "color": "Majestic Yellow",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397857_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 26,
+                                "swapoutsequencenumber": 26,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "93267_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6778,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Gray",
+                                "color": "Metallic Chrome",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397867_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 28,
+                                "swapoutsequencenumber": 28,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "86550_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6779,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Silver",
+                                "color": "Metallic Silver",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397896_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 29,
+                                "swapoutsequencenumber": 29,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "229423_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6780,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Green",
+                                "color": "Pear",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "256615_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 30,
+                                "swapoutsequencenumber": 30,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "101401_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6781,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Orange",
+                                "color": "Persimmon",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397895_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 31,
+                                "swapoutsequencenumber": 31,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "83704_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6782,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Green",
+                                "color": "Pistachio",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397865_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 32,
+                                "swapoutsequencenumber": 32,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "79418_fpx.tif"
+                                },
+                                "isdefault": true
+                            },
+                            {
+                                "colorwayid": 6784,
+                                "imagetype": "COLORWAY",
+                                "color": "Reef Blue",
+                                "swatchsequencenumber": 34,
+                                "swapoutsequencenumber": 34,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "183776_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6785,
+                                "imagetype": "COLORWAY",
+                                "color": "Sunflower",
+                                "swatchsequencenumber": 35,
+                                "swapoutsequencenumber": 35
+                            },
+                            {
+                                "colorwayid": 6787,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Orange",
+                                "color": "Tangerine",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397866_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 37,
+                                "swapoutsequencenumber": 37,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "79419_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6788,
+                                "imagetype": "COLORWAY",
+                                "color": "Wasabi",
+                                "swatchsequencenumber": 38,
+                                "swapoutsequencenumber": 38,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "101401_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6789,
+                                "imagetype": "COLORWAY",
+                                "color": "White",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "397854_fpx.tif",
+                                    "sequenceNumber": 0
+                                },
+                                "swatchsequencenumber": 39,
+                                "swapoutsequencenumber": 39,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "362461_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6790,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "White",
+                                "color": "White on White",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "915656_fpx.tif"
+                                },
+                                "swatchsequencenumber": 40,
+                                "swapoutsequencenumber": 40,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "361880_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 6791,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Yellow",
+                                "color": "Yellow Pepper",
+                                "upcprimaryimage": {
+                                    "imagetype": "UPC_PRIMARY_IMAGE",
+                                    "imagename": "834564_fpx.tif"
+                                },
+                                "swatchsequencenumber": 41,
+                                "swapoutsequencenumber": 41,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "362346_fpx.tif"
+                                }
+                            }
+                        ],
+                        "availability": {
+                            "available": true
+                        }
+                    },
+                    "rebates": [
+                        {
+                            "text": "Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                            "description": "Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                            "mediaGroupID": 589059,
+                            "mailAddress": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 115512,
+                    "productDetails": {
+                        "summary": {
+                            "name": "KitchenAid KV25G0X Stand Mixer, 5 Qt. Pro 5 Plus ",
+                            "productURL": "http://www1.macys.com/shop/product/kitchenaid-kv25g0x-stand-mixer-5-qt-pro-5-plus?ID=115512",
+                            "description": "Timeless style that packs a professional-quality punch. KitchenAid's iconic stand mixer has a cool industrial design that powers through even the thickest mixtures. Extremely versatile, fit it with optional attachments to turn your mixer into a food grinder, shredder, juicer, pasta roller and more! 1-year hassle-free replacement warranty. Model KV25G0X.",
+                            "typeName": "MIXER",
+                            "available": false,
+                            "productStartDays": 3493,
+                            "isNew": false,
+                            "taxwareCode": 91000,
+                            "productGroup": false,
+                            "checkInStoreEligibility": false,
+                            "maxQuantity": 6,
+                            "bullets": ["Includes flat beater, wire whip, dough hook, pouring shield and polished bowl with handles", "Mixes up to 6 loaves of bread, 10 dozen cookies or 7 pounds of mashed potatoes", "5-qt. large-mouth stainless steel bowl accommodates oversized batches", "Bowl locks in place with an innovative bowl-lift for maximum stability", "10-speed control with soft-start mixing feature", "Average capacity: 12 cups", "450W motor"],
+                            "comparable": true,
+                            "active": true,
+                            "defaultCategoryId": 7554,
+                            "giftWrappable": false,
+                            "visible": false,
+                            "clearanceStartDays": 16008,
+                            "countryEligible": true,
+                            "primaryPortraitSource": "124806_fpx.tif",
+                            "rebateId": ["123456"]
+                        },
+                        "collection": {
+                            "incollection": true
+                        },
+                        "badges": {
+                            "new": false,
+                            "Rebate": true,
+                            "onsale": false
+                        },
+                        "shipping": {
+                            "giftWrappable": false,
+                            "giftMessageable": false
+                        },
+                        "attributes": [
+                            {
+                                "name": "ELECTRICS_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Mixer & Accessories"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CAPACITY",
+                                "values": [
+                                    {
+                                        "value": "5 quarts"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WATTS",
+                                "values": [
+                                    {
+                                        "value": "450W"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_END_DATE",
+                                "values": [
+                                    {
+                                        "value": "05/06/2004 12:05:00 AM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SKAVA",
+                                "values": [
+                                    {
+                                        "value": "KitchenAid Sitelet"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_DEPARTMENT",
+                                "values": [
+                                    {
+                                        "value": "Mixers"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "INTL_SUPPRESS_PRODUCT",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "KITCHENAID",
+                                "values": [
+                                    {
+                                        "value": "Blender",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Gadgets",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AGE_CATEGORY",
+                                "values": [
+                                    {
+                                        "value": "Adult"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WARRANTY_LENGTH",
+                                "values": [
+                                    {
+                                        "value": "1 yr"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MORE_COLORS",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WEIGHT",
+                                "values": [
+                                    {
+                                        "value": "30 Lbs."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AZ_HOME_TYPES",
+                                "values": [
+                                    {
+                                        "value": "stand-mixers"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MODEL_NUMBER",
+                                "values": [
+                                    {
+                                        "value": "KV25G0XOB"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_LONG_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Timeless style that packs a professional-quality punch. KitchenAid's iconic stand mixer has a cool industrial design that powers through even the thickest mixtures. Extremely versatile, fit it with optional attachments to turn your mixer into a food grinder, shredder, juicer, pasta roller and more! 1-year hassle-free replacement warranty. Model KV25G0X."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AZ_CLOTHING_TYPES",
+                                "values": [
+                                    {
+                                        "value": "Accessory"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WARRANTY",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_START_DATE",
+                                "values": [
+                                    {
+                                        "value": "04/06/2004 12:04:00 AM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MIXER_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Stand Mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_PORTRAIT_IMAGE",
+                                "values": [
+                                    {
+                                        "value": "124806.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FINISH",
+                                "values": [
+                                    {
+                                        "value": "Stainless Steel"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "DIMENSION",
+                                "values": [
+                                    {
+                                        "value": "11.3\" x 14.6\" x 16.5\""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CUSTRATINGS",
+                                "values": [
+                                    {
+                                        "value": "4.7"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_NOUN",
+                                "values": [
+                                    {
+                                        "value": "stand mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "STAND_MIXER_FEATURE",
+                                "values": [
+                                    {
+                                        "value": "Bowl Lift"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "GENDER",
+                                "values": [
+                                    {
+                                        "value": "Boys"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PDF_EMAIL_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "5-Quart Pro 5 Plus Stand Mixer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SPEEDS",
+                                "values": [
+                                    {
+                                        "value": "10 Mixing Speeds"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AMAZON_TAX_CODE",
+                                "values": [
+                                    {
+                                        "value": "A_GEN_TAX"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SEARCH_RANKING",
+                                "values": [
+                                    {
+                                        "value": "10"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BRAND",
+                                "values": [
+                                    {
+                                        "value": "KitchenAid"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BUSINESS_CATEGORY",
+                                "values": [
+                                    {
+                                        "value": "Home",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Kitchen",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "primaryImage": {
+                            "imagetype": "PRIMARY_IMAGE",
+                            "imagename": "124806_fpx.tif",
+                            "sequenceNumber": 1
+                        },
+                        "brand": {
+                            "brandname": "KitchenAid",
+                            "brandid": 1025
+                        },
+                        "corpclass": {
+                            "gmmid": 6,
+                            "gmmcode": "SOFT HOME",
+                            "deptid": 691,
+                            "deptcode": "KITCHEN ELECTRICS"
+                        },
+                        "colorMap": [
+                            {
+                                "colorwayid": 15152,
+                                "imagetype": "COLORWAY",
+                                "color": "Black",
+                                "swatchsequencenumber": 1,
+                                "swapoutsequencenumber": 1,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "99350_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 15154,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Red",
+                                "color": "Red",
+                                "swatchsequencenumber": 3,
+                                "swapoutsequencenumber": 3,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "72689_fpx.tif"
+                                }
+                            },
+                            {
+                                "colorwayid": 15155,
+                                "imagetype": "COLORWAY",
+                                "color": "White",
+                                "swatchsequencenumber": 4,
+                                "swapoutsequencenumber": 4,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "34457_fpx.tif"
+                                }
+                            }
+                        ],
+                        "availability": {
+                            "available": false
+                        }
+                    },
+                    "rebates": [
+                        {
+                            "text": "Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                            "description": "Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                            "mediaGroupID": 123456,
+                            "mailAddress": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 142123,
+                    "productDetails": {
+                        "summary": {
+                            "name": "KitchenAid KPWB10B Waffle Maker, Pro Line",
+                            "productURL": "http://www1.macys.com/shop/product/kitchenaid-kpwb10b-waffle-maker-pro-line?ID=142123",
+                            "description": "Professional performance from the convenience of your kitchen. With a special clamshell baking unit that allows batter to coat both upper and lower plates, you can produce extra thick waffles (1.25-inches) in perfect shape. Within five minutes or less, fabulous Belgian waffles will be ready for you to delight in. 1-year hassle-free replacement warranty. Model KPWB10B.",
+                            "typeName": "ELECTRICS",
+                            "available": true,
+                            "productStartDays": 3254,
+                            "isNew": false,
+                            "taxwareCode": 91000,
+                            "productGroup": false,
+                            "checkInStoreEligibility": true,
+                            "maxQuantity": 6,
+                            "bullets": ["Stainless steel and die-cast metal construction", "Non-stick waffle plates wipe clean with paper towel or damp cloth", "Constant temperature baking", "Digital countdown timer", "Drip channel along edge helps prevent overflow and spills", "Space-saving design for display or storage"],
+                            "comparable": true,
+                            "active": true,
+                            "defaultCategoryId": 7554,
+                            "giftWrappable": false,
+                            "visible": true,
+                            "clearanceStartDays": 16008,
+                            "countryEligible": true,
+                            "primaryPortraitSource": "172617_fpx.tif",
+                            "additionalImageSource": ["159270_fpx.tif"]
+                        },
+                        "collection": {
+                            "incollection": true
+                        },
+                        "badges": {
+                            "new": false,
+                            "Rebate": false,
+                            "onsale": false
+                        },
+                        "shipping": {
+                            "shippingMethods": ["Standard Delivery", "Premium 2 Day Delivery", "Express Overnight Delivery"],
+                            "returnConstraint": ["SM"],
+                            "giftWrappable": false,
+                            "giftMessageable": true
+                        },
+                        "attributes": [
+                            {
+                                "name": "ELECTRICS_TYPE",
+                                "values": [
+                                    {
+                                        "value": "Specialty Electrics"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "WARRANTY",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_END_DATE",
+                                "values": [
+                                    {
+                                        "value": "12/31/2004 12:12:00 AM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SKAVA",
+                                "values": [
+                                    {
+                                        "value": "Guided Registry"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_DEPARTMENT",
+                                "values": [
+                                    {
+                                        "value": "Electrics"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "FORCED_NEW_START_DATE",
+                                "values": [
+                                    {
+                                        "value": "12/01/2004 12:12:00 AM"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "INTL_SUPPRESS_PRODUCT",
+                                "values": [
+                                    {
+                                        "value": "Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_PORTRAIT_IMAGE",
+                                "values": [
+                                    {
+                                        "value": "172617.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CUSTRATINGS",
+                                "values": [
+                                    {
+                                        "value": "4.8"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_NOUN",
+                                "values": [
+                                    {
+                                        "value": "waffle iron"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_ADDITIONAL_IMAGES",
+                                "values": [
+                                    {
+                                        "value": "159270.fpx"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AZ_HOME_TYPES",
+                                "values": [
+                                    {
+                                        "value": "waffle-irons"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MEMBER_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Waffle Baker"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PDF_EMAIL_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "PRO LINE? Waffle Baker"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "PRODUCT_LONG_DESCRIPTION",
+                                "values": [
+                                    {
+                                        "value": "Professional performance from the convenience of your kitchen. With a special clamshell baking unit that allows batter to coat both upper and lower plates, you can produce extra thick waffles (1.25-inches) in perfect shape. Within five minutes or less, fabulous Belgian waffles will be ready for you to delight in. 1-year hassle-free replacement warranty. Model KPWB10B."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "AMAZON_TAX_CODE",
+                                "values": [
+                                    {
+                                        "value": "A_GEN_TAX"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "REGISTRABLE",
+                                "values": [
+                                    {
+                                        "value": "Wedding"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BRAND",
+                                "values": [
+                                    {
+                                        "value": "KitchenAid"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BUSINESS_CATEGORY",
+                                "values": [
+                                    {
+                                        "value": "Home",
+                                        "seqnum": 1
+                                    },
+                                    {
+                                        "value": "Kitchen",
+                                        "seqnum": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "primaryImage": {
+                            "imagetype": "PRIMARY_IMAGE",
+                            "imagename": "172617_fpx.tif",
+                            "sequenceNumber": 1
+                        },
+                        "additionalImages": [
+                            {
+                                "imagetype": "ADDITIONAL_IMAGE",
+                                "imagename": "159270_fpx.tif",
+                                "sequenceNumber": 2
+                            }
+                        ],
+                        "brand": {
+                            "brandname": "KitchenAid",
+                            "brandid": 1025
+                        },
+                        "corpclass": {
+                            "gmmid": 6,
+                            "gmmcode": "SOFT HOME",
+                            "deptid": 691,
+                            "deptcode": "KITCHEN ELECTRICS"
+                        },
+                        "price": {
+                            "retail": {
+                                "pricevalue": {
+                                    "low": 249.99
+                                }
+                            },
+                            "pricetype": 0,
+                            "onsale": false
+                        },
+                        "colorMap": [
+                            {
+                                "colorwayid": 18714,
+                                "imagetype": "COLORWAY",
+                                "colornormal": "Black",
+                                "color": "Onyx Black",
+                                "swatchsequencenumber": 2,
+                                "swapoutsequencenumber": 2,
+                                "swatchimage": {
+                                    "imagetype": "SWATCH",
+                                    "imagename": "343918_fpx.tif",
+                                    "sequenceNumber": 0
+                                }
+                            }
+                        ],
+                        "availability": {
+                            "available": true
+                        }
+                    }
+                }
+            ],
+            "badges": {
+                "new": false,
+                "Rebate": true,
+                "onsale": false
+            },
+            "shipping": {
+                "giftWrappable": false,
+                "giftMessageable": false
+            },
+            "attributes": [
+                {
+                    "name": "WARRANTY",
+                    "values": [
+                        {
+                            "value": "Y"
+                        }
+                    ]
+                },
+                {
+                    "name": "FORCED_NEW_END_DATE",
+                    "values": [
+                        {
+                            "value": "10/06/2006 12:10:00 AM"
+                        }
+                    ]
+                },
+                {
+                    "name": "SKAVA",
+                    "values": [
+                        {
+                            "value": "Guided Registry"
+                        }
+                    ]
+                },
+                {
+                    "name": "COMPARABLE",
+                    "values": [
+                        {
+                            "value": "N"
+                        }
+                    ]
+                },
+                {
+                    "name": "PRODUCT_DEPARTMENT",
+                    "values": [
+                        {
+                            "value": "Electrics"
+                        }
+                    ]
+                },
+                {
+                    "name": "FORCED_NEW_START_DATE",
+                    "values": [
+                        {
+                            "value": "09/06/2006 12:09:00 AM"
+                        }
+                    ]
+                },
+                {
+                    "name": "USE_TEMPLATE_PDP",
+                    "values": [
+                        {
+                            "value": "Master Header"
+                        }
+                    ]
+                },
+                {
+                    "name": "PRODUCT_PORTRAIT_IMAGE",
+                    "values": [
+                        {
+                            "value": "484333.fpx"
+                        }
+                    ]
+                },
+                {
+                    "name": "USE_MANUAL_MEMBER_SEQUENCE",
+                    "values": [
+                        {
+                            "value": "Y"
+                        }
+                    ]
+                },
+                {
+                    "name": "CUSTRATINGS",
+                    "values": [
+                        {
+                            "value": "4.3"
+                        }
+                    ]
+                },
+                {
+                    "name": "MASTER_COMPARE",
+                    "values": [
+                        {
+                            "value": "N"
+                        }
+                    ]
+                },
+                {
+                    "name": "PRODUCT_NOUN",
+                    "values": [
+                        {
+                            "value": "kitchen-small-appliances"
+                        }
+                    ]
+                },
+                {
+                    "name": "PRODUCT_ADDITIONAL_IMAGES",
+                    "values": [
+                        {
+                            "value": "246553.fpx"
+                        }
+                    ]
+                },
+                {
+                    "name": "AZ_HOME_TYPES",
+                    "values": [
+                        {
+                            "value": "kitchen-small-appliances"
+                        }
+                    ]
+                },
+                {
+                    "name": "PRODUCT_LONG_DESCRIPTION",
+                    "values": [
+                        {
+                            "value": "What a bright idea! KitchenAid presents a collection of appliances that will help you add a little color to your kitchen. With a style all their own, each piece features accents of vibrant color and sturdy, durable construction. Add to that KitchenAid's reputation for unsurpassed performance and quality and you're assured the best tools no matter what your culinary endeavor. 1-year hassle-free replacement warranty."
+                        }
+                    ]
+                },
+                {
+                    "name": "AMAZON_TAX_CODE",
+                    "values": [
+                        {
+                            "value": "A_GEN_TAX"
+                        }
+                    ]
+                },
+                {
+                    "name": "REGISTRABLE",
+                    "values": [
+                        {
+                            "value": "Wedding"
+                        }
+                    ]
+                },
+                {
+                    "name": "BRAND",
+                    "values": [
+                        {
+                            "value": "KitchenAid"
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSINESS_CATEGORY",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "seqnum": 1
+                        },
+                        {
+                            "value": "Kitchen",
+                            "seqnum": 2
+                        }
+                    ]
+                }
+            ],
+            "primaryImage": {
+                "imagetype": "PRIMARY_IMAGE",
+                "imagename": "484333_fpx.tif",
+                "sequenceNumber": 1
+            },
+            "additionalImages": [
+                {
+                    "imagetype": "ADDITIONAL_IMAGE",
+                    "imagename": "246553_fpx.tif",
+                    "sequenceNumber": 2
+                }
+            ],
+            "brand": {
+                "brandname": "KitchenAid",
+                "brandid": 1025
+            },
+            "corpclass": {
+                "gmmid": 6,
+                "gmmcode": "SOFT HOME",
+                "deptid": 691,
+                "deptcode": "KITCHEN ELECTRICS"
+            },
+            "price": {
+                "retail": {
+                    "pricevalue": {
+                        "low": 249.99,
+                        "high": 499.99
+                    }
+                },
+                "pricetype": 0,
+                "onsale": false
+            },
+            "colorMap": [
+                {
+                    "colorwayid": 926629,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Green",
+                    "color": "Canopy Green",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "1643796_fpx.tif",
+                        "sequenceNumber": 1
+                    },
+                    "swatchsequencenumber": 0,
+                    "swapoutsequencenumber": 41,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "1217708_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "isdefault": true,
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 926684,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Pink",
+                    "color": "Watermelon",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "1643797_fpx.tif",
+                        "sequenceNumber": 1
+                    },
+                    "swatchsequencenumber": 0,
+                    "swapoutsequencenumber": 43,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "360899_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6751,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Tan/Beige",
+                    "color": "Almond",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397881_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 1,
+                    "swapoutsequencenumber": 1,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "34969_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 29443,
+                    "imagetype": "COLORWAY",
+                    "color": "Gloss Cinnamon",
+                    "swatchsequencenumber": 1,
+                    "swapoutsequencenumber": 1,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "239275_fpx.tif"
+                    },
+                    "memberProductIds": ["199460"]
+                },
+                {
+                    "colorwayid": 6752,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Blue",
+                    "color": "Aqua Sky",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "841245_fpx.tif"
+                    },
+                    "swatchsequencenumber": 2,
+                    "swapoutsequencenumber": 2,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "355077_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 29444,
+                    "imagetype": "COLORWAY",
+                    "color": "Onyx Black",
+                    "swatchsequencenumber": 2,
+                    "swapoutsequencenumber": 2,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "239276_fpx.tif"
+                    },
+                    "memberProductIds": ["142123", "199460"]
+                },
+                {
+                    "colorwayid": 6753,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Green",
+                    "color": "Bayleaf",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397891_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 3,
+                    "swapoutsequencenumber": 3,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "78160_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 15154,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Red",
+                    "color": "Red",
+                    "swatchsequencenumber": 3,
+                    "swapoutsequencenumber": 3,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "72689_fpx.tif"
+                    },
+                    "memberProductIds": ["115512"]
+                },
+                {
+                    "colorwayid": 29445,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Gray",
+                    "color": "Stainless Steel",
+                    "swatchsequencenumber": 3,
+                    "swapoutsequencenumber": 3,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "239274_fpx.tif"
+                    },
+                    "memberProductIds": ["199460"]
+                },
+                {
+                    "colorwayid": 6754,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Black",
+                    "color": "Black",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397853_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 4,
+                    "swapoutsequencenumber": 4,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "72688_fpx.tif"
+                    },
+                    "memberProductIds": ["77589", "115512"]
+                },
+                {
+                    "colorwayid": 6755,
+                    "imagetype": "COLORWAY",
+                    "color": "Blue Willow",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397889_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 5,
+                    "swapoutsequencenumber": 5,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "85711_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6756,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Purple",
+                    "color": "Boysenberry",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397892_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 6,
+                    "swapoutsequencenumber": 6,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "189559_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6757,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Yellow",
+                    "color": "Buttercup",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "837649_fpx.tif"
+                    },
+                    "swatchsequencenumber": 7,
+                    "swapoutsequencenumber": 7,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "362403_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6759,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Red",
+                    "color": "Cinnamon",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397885_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 9,
+                    "swapoutsequencenumber": 9,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "191949_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6761,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Blue",
+                    "color": "Cobalt Blue",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397852_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 11,
+                    "swapoutsequencenumber": 11,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "72686_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6762,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Silver",
+                    "color": "Contour Silver",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "895768_fpx.tif"
+                    },
+                    "swatchsequencenumber": 12,
+                    "swapoutsequencenumber": 12,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "357250_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6763,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Blue",
+                    "color": "Cornflower",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397893_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 13,
+                    "swapoutsequencenumber": 13,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "72631_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6764,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Red",
+                    "color": "Cranberry",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "1643795_fpx.tif",
+                        "sequenceNumber": 1
+                    },
+                    "swatchsequencenumber": 14,
+                    "swapoutsequencenumber": 14,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "77219_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6765,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Blue",
+                    "color": "Crystal Blue",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "1205735_fpx.tif",
+                        "sequenceNumber": 1
+                    },
+                    "swatchsequencenumber": 15,
+                    "swapoutsequencenumber": 15,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "90545_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6766,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Red",
+                    "color": "Empire Red",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "844854_fpx.tif"
+                    },
+                    "swatchsequencenumber": 16,
+                    "swapoutsequencenumber": 16,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "72689_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6767,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Brown",
+                    "color": "Espresso",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "982825_fpx.tif"
+                    },
+                    "swatchsequencenumber": 17,
+                    "swapoutsequencenumber": 17,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "349062_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6770,
+                    "imagetype": "COLORWAY",
+                    "color": "Green",
+                    "swatchsequencenumber": 20,
+                    "swapoutsequencenumber": 20,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "78160_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6771,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Green",
+                    "color": "Green Apple",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397890_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 21,
+                    "swapoutsequencenumber": 21,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "220606_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6772,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Gray",
+                    "color": "Grey",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397858_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 22,
+                    "swapoutsequencenumber": 22,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "76995_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6773,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Blue",
+                    "color": "Ice",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397872_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 23,
+                    "swapoutsequencenumber": 23,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "111938_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6774,
+                    "imagetype": "COLORWAY",
+                    "color": "Lavender",
+                    "swatchsequencenumber": 24,
+                    "swapoutsequencenumber": 24,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "79420_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6776,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Yellow",
+                    "color": "Majestic Yellow",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397857_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 26,
+                    "swapoutsequencenumber": 26,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "93267_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6778,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Gray",
+                    "color": "Metallic Chrome",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397867_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 28,
+                    "swapoutsequencenumber": 28,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "86550_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6779,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Silver",
+                    "color": "Metallic Silver",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397896_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 29,
+                    "swapoutsequencenumber": 29,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "229423_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6780,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Green",
+                    "color": "Pear",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "256615_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 30,
+                    "swapoutsequencenumber": 30,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "101401_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6781,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Orange",
+                    "color": "Persimmon",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397895_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 31,
+                    "swapoutsequencenumber": 31,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "83704_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6782,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Green",
+                    "color": "Pistachio",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397865_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 32,
+                    "swapoutsequencenumber": 32,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "79418_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6784,
+                    "imagetype": "COLORWAY",
+                    "color": "Reef Blue",
+                    "swatchsequencenumber": 34,
+                    "swapoutsequencenumber": 34,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "183776_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6785,
+                    "imagetype": "COLORWAY",
+                    "color": "Sunflower",
+                    "swatchsequencenumber": 35,
+                    "swapoutsequencenumber": 35,
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6787,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Orange",
+                    "color": "Tangerine",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397866_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 37,
+                    "swapoutsequencenumber": 37,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "79419_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6788,
+                    "imagetype": "COLORWAY",
+                    "color": "Wasabi",
+                    "swatchsequencenumber": 38,
+                    "swapoutsequencenumber": 38,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "101401_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6789,
+                    "imagetype": "COLORWAY",
+                    "color": "White",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "397854_fpx.tif",
+                        "sequenceNumber": 0
+                    },
+                    "swatchsequencenumber": 39,
+                    "swapoutsequencenumber": 39,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "362461_fpx.tif"
+                    },
+                    "memberProductIds": ["77589", "115512"]
+                },
+                {
+                    "colorwayid": 6790,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "White",
+                    "color": "White on White",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "915656_fpx.tif"
+                    },
+                    "swatchsequencenumber": 40,
+                    "swapoutsequencenumber": 40,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "361880_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                },
+                {
+                    "colorwayid": 6791,
+                    "imagetype": "COLORWAY",
+                    "colornormal": "Yellow",
+                    "color": "Yellow Pepper",
+                    "upcprimaryimage": {
+                        "imagetype": "UPC_PRIMARY_IMAGE",
+                        "imagename": "834564_fpx.tif"
+                    },
+                    "swatchsequencenumber": 41,
+                    "swapoutsequencenumber": 41,
+                    "swatchimage": {
+                        "imagetype": "SWATCH",
+                        "imagename": "362346_fpx.tif"
+                    },
+                    "memberProductIds": ["77589"]
+                }
+            ],
+            "availability": {
+                "available": true
+            },
+            "urlmetadata": {
+                "urls": [
+                    {
+                        "urltype": "Image",
+                        "urlformat": "http://slimages.macys.com/is/image/MCY/products/",
+                        "queryparams": "?bgc=255,255,255&wid=%d&qlt=%d&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg"
+                    },
+                    {
+                        "urltype": "Swatch",
+                        "urlformat": "http://slimages.macys.com/is/image/MCY/swatches/"
+                    },
+                    {
+                        "urltype": "SizeChart",
+                        "urlformat": "http://macys.com/catalog/product/size.jsp?&size_chart=%s&fromUSLink=true"
+                    },
+                    {
+                        "urltype": "InternationalSizeChart",
+                        "urlformat": "http://macys.com/catalog/product/size.jsp?intl_size_chart="
+                    }
+                ]
+            }
+        },
+        "rebates": [
+            {
+                "text": "Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                "description": "Purchase One KitchenAid 5 QT Artisan Standmixer (KSM150or KSM155) and Receive Food Grinder or Mixing Bowl ",
+                "mediaGroupID": 234567,
+                "mailAddress": [""]
+            }
+        ]
+    }
+]}
