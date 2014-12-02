@@ -20,11 +20,6 @@ public class SchemaMerger {
         boolean isRequired = true;
         List<JsonObject> childInputSchemaObjects = new ArrayList<JsonObject>();
         for (JsonObject element : inputSchemaObjects) {
-            if (element == null) {
-                isRequired = false;
-                childInputSchemaObjects.add(null); // for non required arrays only, for object child objects are populated below
-                continue;
-            }
             if (firstElement) {
                 name = element.get(SchemaGenerator.ID).getAsString();
                 type = element.get(SchemaGenerator.TYPE).getAsString();
@@ -69,17 +64,22 @@ public class SchemaMerger {
             for (Map.Entry<String, JsonElement> reqPropEntry : allProperties.entrySet()) {
                 childInputSchemaObjects = new ArrayList<JsonObject>(); //clean
                 // collect all child input objects for required property
+                boolean propIsRequired = true;
                 for (JsonObject schemaObject : inputSchemaObjects) {
-                    if (schemaObject == null) {
-                        childInputSchemaObjects.add(null); // means that the attribute is not required
+                    final JsonObject propertiesInputSchemaObj = schemaObject.get(SchemaGenerator.PROPERTIES).getAsJsonObject();
+                    final JsonElement inputProperty = propertiesInputSchemaObj.get(reqPropEntry.getKey());
+                    if (inputProperty != null) {
+                        childInputSchemaObjects.add(inputProperty.getAsJsonObject());
                     } else {
-                        final JsonObject propertiesInputSchemaObj = schemaObject.get(SchemaGenerator.PROPERTIES).getAsJsonObject();
-                        final JsonElement inputProperty = propertiesInputSchemaObj.get(reqPropEntry.getKey());
-                        childInputSchemaObjects.add(inputProperty == null ? null : inputProperty.getAsJsonObject());
+                        propIsRequired = false;
                     }
                 }
                 // for objects and primitives -> recursion
-                resPropObject.add(reqPropEntry.getKey(), mergeSchemas(childInputSchemaObjects));
+                final JsonObject propertySchema = mergeSchemas(childInputSchemaObjects).getAsJsonObject();
+                if (!propIsRequired) {
+                    propertySchema.addProperty(SchemaGenerator.REQUIRED, Boolean.FALSE);
+                }
+                resPropObject.add(reqPropEntry.getKey(), propertySchema);
             }
         }
         return resultSchemaObj;

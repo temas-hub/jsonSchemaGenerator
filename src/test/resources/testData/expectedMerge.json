@@ -95,7 +95,7 @@
                           "items": {
                             "id": "0",
                             "type": "string",
-                            "required": false
+                            "required": true
                           }
                         },
                         "onsale": {
