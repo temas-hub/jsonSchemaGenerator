@@ -1,4 +1,4 @@
-package com.macys.util.json.generator;
+package com.macys.util.json;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonPrimitive;
@@ -12,7 +12,7 @@ public class Type {
     public static final String STRING = "string";
     public static final String NULL = "null";
 
-    public static String get_schema_type_for(JsonElement t) {
+    public static String getSchemaTypeFor(JsonElement t) {
         if (t.isJsonObject()) {
             return OBJECT;
         }

@@ -6,6 +6,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import com.macys.util.json.Type;
 
 import java.io.Reader;
 import java.util.ArrayList;
@@ -47,7 +48,7 @@ public class SchemaGenerator {
             schema_dict.addProperty(ID, elementName);
         }
 
-        String schema_type = Type.get_schema_type_for(jsonElement);
+        String schema_type = Type.getSchemaTypeFor(jsonElement);
 
         schema_dict.addProperty(REQUIRED, Boolean.TRUE);
         schema_dict.addProperty(TYPE, schema_type);

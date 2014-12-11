@@ -2,6 +2,8 @@ package com.macys.util.json.generator;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
+import com.macys.util.json.Type;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
