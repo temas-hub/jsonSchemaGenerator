@@ -73,6 +73,7 @@
                     "summary": {
                         "name": "Gift for $49.50 with any $27 Clinique purchase!",
                         "producttype": "GWP",
+                        "onsale": false,
                         "producturl": "http://www1.bloomingdales.com/shop/product/gift-for-4950-with-any-27-clinique-purchase?ID=1198908",
                         "iscollection": true,
                         "available": true,

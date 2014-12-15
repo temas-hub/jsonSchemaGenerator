@@ -73,8 +73,7 @@ public class ValidatorTest {
         JsonElement schema = jsonParser.parse(new FileReader(new File(schemaResource.toURI())));
 
         final List<String> errorPointers = validateAndGetErrors(instance, schema);
-        Assert.assertEquals(2, errorPointers.size());
+        Assert.assertEquals(1, errorPointers.size());
         Assert.assertEquals("/category/0/product/product/0/category/0/id", errorPointers.get(0));
-        Assert.assertEquals("/category/0/product/product/1/summary/onsale", errorPointers.get(1));
     }
 }
