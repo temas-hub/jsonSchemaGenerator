@@ -7,5 +7,5 @@ import com.google.gson.JsonElement;
  * @since 11/12/2014
  */
 public interface ErrorInterceptor {
-    public void error(final JsonElement schemaPointer, final JsonElement instancePointer, final ErrorEvent errorEvent);
+    public void error(final String errorElementPath, final JsonElement instancePointer, final ErrorEvent errorEvent);
 }

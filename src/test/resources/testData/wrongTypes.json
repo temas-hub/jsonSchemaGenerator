@@ -1,0 +1,115 @@
+{"resultsperpage": 12, "currentpage": 2, "sortby": "original", "sortorder": "asc", "show": "product", "totalresults": 1, "resptime": "10496ms", "querydate": "2014-11-27T10:10:01.670-04:30", "category": [
+    {
+        "id": 7138,
+        "summary": {
+            "name": "Gifts with Purchase",
+            "categorytype": "Flexible Template",
+            "categorypageurl": "http://www1.bloomingdales.com/shop/beauty/gifts-with-purchase?id=7138&edge=hybrid",
+            "categoryHighlight": false,
+            "pageType": "Browse",
+            "pageTitle": "Gifts with Purchase",
+            "mobilePublish": "Y",
+            "mobileName": "Shop All"
+        },
+        "parentcategory": {
+            "type": "categoryResponseEven",
+            "id": 3358,
+            "summary": {
+                "name": "What's New",
+                "categorytype": "Flexible Template",
+                "categorypageurl": "http://www1.bloomingdales.com/shop/beauty/whats-new?id=3358&edge=hybrid",
+                "categoryHighlight": false,
+                "pageType": "Browse",
+                "pageTitle": "What's New",
+                "mobilePublish": "Y",
+                "mobileName": "Gifts With Purchase"
+            }
+        },
+        "product": {
+            "product": [
+                {
+                    "id": 1172565,
+                    "summary": {
+                        "name": "Gift for $37.50 with any Estée Lauder skincare purchase!",
+                        "producttype": "GWP",
+                        "onsale": false,
+                        "producturl": "http://www1.bloomingdales.com/shop/product/gift-for-3750-with-any-estee-lauder-skincare-purchase?ID=1172565",
+                        "iscollection": true,
+                        "available": true,
+                        "registrable": "Wedding",
+                        "productstartdays": 63
+                    },
+                    "image": [
+                        {
+                            "imagetype": "PRIMARY_IMAGE",
+                            "imageurl": "http://images.bloomingdales.com/is/image/BLM/products/8/optimized/8674838_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                            "imagename": "8/optimized/8674838_fpx",
+                            "colorized": true,
+                            "hasMoreColors": false
+                        }
+                    ],
+                    "price": {
+                        "regular": {
+                            "high": 92.0,
+                            "low": 40.0
+                        },
+                        "pricetypeid": 0
+                    },
+                    "category": [
+                        {
+                            "id": "2921",
+                            "type": "homecategory"
+                        }
+                    ],
+                    "badges": {
+                        "promotionbadge": ["Special Offer"],
+                        "new": false,
+                        "Rebate": false,
+                        "onsale": false
+                    }
+                },
+                {
+                    "id": 1198908,
+                    "summary": {
+                        "name": "Gift for $49.50 with any $27 Clinique purchase!",
+                        "producttype": "GWP",
+                        "producturl": "http://www1.bloomingdales.com/shop/product/gift-for-4950-with-any-27-clinique-purchase?ID=1198908",
+                        "iscollection": true,
+                        "available": true,
+                        "registrable": "Wedding",
+                        "productstartdays": 16441
+                    },
+                    "image": [
+                        {
+                            "imagetype": "PRIMARY_IMAGE",
+                            "imageurl": "http://images.bloomingdales.com/is/image/BLM/products/0/optimized/8632670_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                            "imagename": "0/optimized/8632670_fpx",
+                            "colorized": true,
+                            "sequenceNumber": 0,
+                            "hasMoreColors": false
+                        }
+                    ],
+                    "price": {
+                        "regular": {
+                            "high": 89.5,
+                            "low": 38.0
+                        },
+                        "pricetypeid": 0
+                    },
+                    "category": [
+                        {
+                            "id": 2921,
+                            "type": "homecategory"
+                        }
+                    ],
+                    "badges": {
+                        "new": false,
+                        "Rebate": false,
+                        "onsale": false
+                    }
+                }
+            ]
+        },
+        "bopsfacetavailable": false
+    }
+]}

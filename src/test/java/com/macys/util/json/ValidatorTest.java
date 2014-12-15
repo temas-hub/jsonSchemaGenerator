@@ -13,7 +13,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
-import java.util.concurrent.atomic.AtomicInteger;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @author Artem Zhdanov <azhdanov@griddynamics.com>
@@ -29,37 +30,51 @@ public class ValidatorTest {
         final URL schemaResource = getClass().getClassLoader().getResource("testData/expectedMerge.json");
         JsonElement schema = jsonParser.parse(new FileReader(new File(schemaResource.toURI())));
 
-        final AtomicInteger errorCounter = new AtomicInteger(0);
+        final List<String> errorPointers = validateAndGetErrors(instance, schema);
+        Assert.assertEquals(0, errorPointers.size());
+    }
+
+    private List<String> validateAndGetErrors(final JsonElement instance, final JsonElement schema) {
+        final List<String> errorPath = new ArrayList<String>();
         Validator validator = new Validator();
         validator.validate("", schema.getAsJsonObject(), instance, new ErrorInterceptor() {
             @Override
-            public void error(final JsonElement schemaPointer, final JsonElement instancePointer, final ErrorEvent errorEvent) {
+            public void error(final String errorElementPath, final JsonElement instancePointer, final ErrorEvent errorEvent) {
                 System.out.println(errorEvent.getMessage());
-                errorCounter.incrementAndGet();
+                errorPath.add(errorElementPath);
             }
         });
-        Assert.assertEquals(0, errorCounter.get());
-
+        return errorPath;
     }
+
     @Test
-    public void wrongTest() throws URISyntaxException, IOException {
-        final URL instanceResource = getClass().getClassLoader().getResource("testData/wrongData.json");
+    public void requiredElementsTest() throws URISyntaxException, IOException {
+        final URL instanceResource = getClass().getClassLoader().getResource("testData/requiredElementDataWothError.json");
         final JsonParser jsonParser = new JsonParser();
         JsonElement instance = jsonParser.parse(new FileReader(new File(instanceResource.toURI())));
 
         final URL schemaResource = getClass().getClassLoader().getResource("testData/expectedMerge.json");
         JsonElement schema = jsonParser.parse(new FileReader(new File(schemaResource.toURI())));
 
-        final AtomicInteger errorCounter = new AtomicInteger(0);
-        Validator validator = new Validator();
-        validator.validate("", schema.getAsJsonObject(), instance, new ErrorInterceptor() {
-            @Override
-            public void error(final JsonElement schemaPointer, final JsonElement instancePointer, final ErrorEvent errorEvent) {
-                System.out.println(errorEvent.getMessage());
-                errorCounter.incrementAndGet();
-            }
-        });
-        Assert.assertEquals(2, errorCounter.get());
+        final List<String> errorPointers = validateAndGetErrors(instance, schema);
+        Assert.assertEquals(2, errorPointers.size());
+        Assert.assertEquals("/category/0/product/product/0/summary/producttype", errorPointers.get(0));
+        Assert.assertEquals("/category/0/product/product/0/badges/promotionbadge/0", errorPointers.get(1));
+    }
 
+
+    @Test
+    public void wrongTypeTest() throws URISyntaxException, IOException {
+        final URL instanceResource = getClass().getClassLoader().getResource("testData/wrongTypes.json");
+        final JsonParser jsonParser = new JsonParser();
+        JsonElement instance = jsonParser.parse(new FileReader(new File(instanceResource.toURI())));
+
+        final URL schemaResource = getClass().getClassLoader().getResource("testData/expectedMerge.json");
+        JsonElement schema = jsonParser.parse(new FileReader(new File(schemaResource.toURI())));
+
+        final List<String> errorPointers = validateAndGetErrors(instance, schema);
+        Assert.assertEquals(2, errorPointers.size());
+        Assert.assertEquals("/category/0/product/product/0/category/0/id", errorPointers.get(0));
+        Assert.assertEquals("/category/0/product/product/1/summary/onsale", errorPointers.get(1));
     }
 }

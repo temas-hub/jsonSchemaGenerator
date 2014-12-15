@@ -19,7 +19,7 @@ public class Validator {
         final boolean isRequired = schema.get(SchemaGenerator.REQUIRED).getAsBoolean();
         if (instance == null) {
             if (isRequired) {
-                errorInterceptor.error(schema, instance,
+                errorInterceptor.error(path, instance,
                         new ErrorEvent(ErrorType.PROPERTY_REQUIRED,
                                 String.format("'%s' element is required but not found", path)));
             }
@@ -27,7 +27,7 @@ public class Validator {
         }
         final String instanceType = Type.getSchemaTypeFor(instance);
         if (!type.equals(instanceType)) {
-            errorInterceptor.error(schema, instance,
+            errorInterceptor.error(path, instance,
                     new ErrorEvent(ErrorType.TYPE_DOESNOT_MATCH,
                             String.format("'%s' element has wrong type. Schema has type '%s' but '%s' was found", path, type, instanceType)));
         }
@@ -48,9 +48,10 @@ public class Validator {
             final JsonArray instanceArray = instance.getAsJsonArray();
             final JsonObject arrayElementObject = schema.get(SchemaGenerator.ITEMS).getAsJsonObject();
             if (arrayElementObject.get(SchemaGenerator.REQUIRED).getAsBoolean() && instanceArray.size() == 0) {
-                errorInterceptor.error(schema, instance,
+                final String elementPath = path + "/0";
+                errorInterceptor.error(elementPath, instance,
                         new ErrorEvent(ErrorType.PROPERTY_REQUIRED,
-                                String.format("'%s' element is required but not found", path + "/0")));
+                                String.format("'%s' element is required but not found", elementPath)));
             }
             for (int i = 0; i < instanceArray.size(); i++) {
                 this.validate(path + "/" + i, arrayElementObject, instanceArray.get(i), errorInterceptor);
